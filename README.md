@@ -1,2 +1,2 @@
 # kaggle_classics
-classic competition of kaggle
+classic competitions of kaggle
